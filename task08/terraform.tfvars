@@ -7,7 +7,7 @@ acr_sku                   = "Basic"
 platform_os               = "Linux"
 dockerfile_path           = "Dockerfile"
 docker_build_context_path = "https://github.com/shashwat-sashi/task08#main:task08/application"
-docker_image_name         = ""
+docker_image_name         = "cmtr-f5n7jzgb-mod8-app"
 
 aci_os_type          = "Linux"
 aci_container_name   = "cmtr-f5n7jzgb-mod8-ci"
